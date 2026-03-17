@@ -14,6 +14,9 @@ Cada cambio en `main` dispara un workflow que **despliega automáticamente** el 
 Evita subir archivos manualmente y asegura un despliegue **consistente y repetible**.  
 Cada actualización pasa por el mismo proceso automatizado, reduciendo errores y ahorrando tiempo.
 
+## Sitio WEB
+Sitio deplegado: https://oscarvega442.github.io/sitio-web-cicd/
+
 ## Enlaces útiles
 - GitHub Actions (docs): https://docs.github.com/en/actions  
 - Acción oficial para Pages: https://github.com/actions/deploy-pages
