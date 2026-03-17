@@ -1,8 +1,9 @@
 
 # Sitio web con CI/CD
 
-Este repositorio contiene un sitio web sencillo en HTML cuyo propósito es demostrar un flujo de CI/CD.  
-Cada cambio en "main" dispara un workflow que despliega automáticamente el sitio en GitHub Pages.
+
+Este repositorio contiene un sitio web sencillo en **HTML** cuyo propósito es demostrar un flujo de **CI/CD**.  
+Cada cambio en `main` dispara un workflow que **despliega automáticamente** el sitio en **GitHub Pages**.
 
 ## ¿Cómo está configurado el workflow?
 - **Evento**: `push` a `main` o ejecución manual (`workflow_dispatch`).
