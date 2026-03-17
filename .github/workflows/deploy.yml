@@ -28,7 +28,7 @@ jobs:
       - name: Subir artifact de Pages
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "."  # publica el repo tal cual (index.html en la raíz)
+          path: "." 
 
   deploy:
     environment:
