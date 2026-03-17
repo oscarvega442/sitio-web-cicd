@@ -15,7 +15,7 @@ Evita subir archivos manualmente y asegura un despliegue **consistente y repetib
 Cada actualización pasa por el mismo proceso automatizado, reduciendo errores y ahorrando tiempo.
 
 ## Sitio WEB
-Sitio deplegado: https://oscarvega442.github.io/sitio-web-cicd/
+Sitio desplegado: https://oscarvega442.github.io/sitio-web-cicd/
 
 ## Enlaces útiles
 - GitHub Actions (docs): https://docs.github.com/en/actions  
